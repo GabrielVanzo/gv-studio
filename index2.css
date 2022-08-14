@@ -11,6 +11,7 @@ body {
     display: inline-block;
     color: #ffffff;
     margin-left: 42px;
+    text-decoration: none;
 }
 
 .menu {
